@@ -1,0 +1,15 @@
+assets/*
+upload_temp/*
+upload/*
+upload.tar.gz
+protected/runtime/*
+
+/.metadata/
+/.settings/
+.buildpath
+.project
+/nbproject/*
+*.stackdump
+*.*~
+*.php~
+/protected/extensions/httpful/tests/.legacy/
